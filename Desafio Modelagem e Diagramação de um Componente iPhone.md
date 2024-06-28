@@ -31,12 +31,11 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 4.  Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
     https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 
-#RESOLVENDO O DESAFIO 
+# RESOLVENDO O DESAFIO 
 
 
 ## Diagrama UML (Mermaid)
 
-```mermaid
 classDiagram
 class ReprodutorMusical {
   + tocar()
