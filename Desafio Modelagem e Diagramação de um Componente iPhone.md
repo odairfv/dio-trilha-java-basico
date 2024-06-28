@@ -35,7 +35,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 
 ## Diagrama UML (Mermaid)
-```mermaid graph TD
+
 classDiagram
 class ReprodutorMusical {
   + tocar()
@@ -52,8 +52,7 @@ class NavegadorInternet {
   + adicionarNovaAba()
   + atualizarPagina()
 }
-class iPhone {}
+class iPhone 
 iPhone --> ReprodutorMusical
 iPhone --> AparelhoTelefonico
 iPhone --> NavegadorInternet
- ```
